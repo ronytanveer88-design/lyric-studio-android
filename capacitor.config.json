@@ -1,0 +1,9 @@
+{
+  "appId": "com.tanvirscreativestudio.lyricstudio",
+  "appName": "Lyric Studio",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": false
+  }
+}
